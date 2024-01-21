@@ -1,0 +1,15 @@
+{1}  -*-  mode: text; fill-column: 50;  -*-
+[0:
+
+Sun Jan 21 02:20:22 2024 OK, starting a notes file
+for the ulam/T2 side of the T2 Matrix Brain
+Challenge.
+
+Please refer to
+
+  T2-12/base/notes/202310150848-T2-SERCON-notes.txt
+
+for the main sequence line of development leading
+to this point!
+
+:0]
