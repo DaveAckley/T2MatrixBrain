@@ -1,4 +1,4 @@
-{1}  -*-  mode: text; fill-column: 50;  -*-
+{2}  -*-  mode: text; fill-column: 50;  -*-
 [0:
 
 Sun Jan 21 02:20:22 2024 OK, starting a notes file
@@ -13,3 +13,11 @@ for the main sequence line of development leading
 to this point!
 
 :0]
+[1:
+
+Sun Jan 21 02:39:17 2024 OK here we are on the
+keymaster. Can we rename this whole thing to
+follow the cdmd slot naming, and still commit and
+stuff? 
+
+:1]
